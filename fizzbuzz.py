@@ -1,7 +1,8 @@
 """
 This is the "fizzbuzz" module.
 
-The module supplies one function, fizzbuzz(). For example:
+The module supplies one function, fizzbuzz(), which is the classic coding test looking for factors of 3 and 5.
+For example:
 >>>fizzbuzz(15)
 "FizzBuzz!"
 """
