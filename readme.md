@@ -1,4 +1,5 @@
 # A simple FizzBuzz programme with tests.
-## Tests are using the pytest module (pip install pytest)
+
+My simple implementation of the classic FizzBuzz problem.
 
 Simply run with python main.py
